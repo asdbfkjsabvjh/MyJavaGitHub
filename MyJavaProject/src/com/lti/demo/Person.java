@@ -37,6 +37,6 @@ public Person() {
 	// TODO Auto-generated constructor stub
 }
 public void test() {
-	
+	System.out.println("hi");
 }
 }
