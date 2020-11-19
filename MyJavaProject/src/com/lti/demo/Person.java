@@ -36,5 +36,7 @@ public Person() {
 	super();
 	// TODO Auto-generated constructor stub
 }
-
+public void test() {
+	
+}
 }
