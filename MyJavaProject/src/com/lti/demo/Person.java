@@ -4,6 +4,7 @@ public class Person {
 private int id;
 private String name;
 private double salary;
+private int x;
 public int getId() {
 	return id;
 }
